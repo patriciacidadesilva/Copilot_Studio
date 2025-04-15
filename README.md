@@ -42,5 +42,5 @@ Este repositório traz um material com orientações sobre como criar, configura
 
 📌 Este material é ideal para quem está começando e quer explorar os recursos do Copilot Studio de forma prática e aplicada.
 
-📌 Para acessar todo conteúdo se dirija ao aquivo em .py desenvolvido em um Notebook do Databrics com as instruções 
+📌 Para acessar todo conteúdo se dirija ao aquivo em .py desenvolvido em um Notebook do Databrics com as instruções:
 - [Link do Arquivo](https://github.com/patriciacidadesilva/Copilot_Studio/blob/main/Como%20Criar%20um%20Agente%20no%20Copilot%20Studio.py)
